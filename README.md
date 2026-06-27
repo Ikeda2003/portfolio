@@ -1,6 +1,6 @@
 # portfolio
 Kaggle，個人開発，学会などの実績をまとめております．
-- 自己紹介：https://drive.google.com/file/d/1e_QUKNEkXlDhNvL0mxnlCbfgm0ngTaAo/view?usp=drive_link
+- 自己紹介：
 - Kaggleプロフィール：https://www.kaggle.com/tuuree/competitions
 - Kaggleコンペ銀メダル２枚のExpertの称号（BYUコンペでソロ銀メダル，CMIコンペで２チームで銀メダル）
 - KaggleのBYUコンペのソリューション記事を公開しています．https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025/writeups/ibuki-44th-place-solution-byu-locating-bacterial-f
